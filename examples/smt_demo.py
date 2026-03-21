@@ -1,0 +1,1 @@
+print('SMT demo')
