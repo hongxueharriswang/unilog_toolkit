@@ -1,11 +1,10 @@
 
 
 # UniLog Toolkit
-
-<https://img.shields.io/badge/Python-3.7%2B-blue.svg](https://www.python.org/)>
-<https://img.shields.io/badge/License-MIT-green.svg](LICENSE)>
-<https://img.shields.io/badge/status-Alpha%200.1.0-orange.svg](#roadmap)>
-<https://img.shields.io/badge/tests-coming%20soon-lightgrey.svg](#contributing)>
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-Alpha%200.1.0-orange.svg)](#roadmap)
+[![Tests](https://img.shields.io/badge/tests-coming%20soon-lightgrey.svg)](#contributing)
 
 **UniLog Toolkit** is a standalone Python library for **formal logical specification and evaluation** using **UniLang**—a concrete syntax for UniLog that integrates **classical, modal, temporal, probabilistic, fuzzy, non‑monotonic**, and **description logic** constructs in a single framework.
 
@@ -23,27 +22,27 @@
 
 ## Table of Contents
 
-*   \#why-unilog-toolkit
-*   \#features
-*   \#installation
-*   \#quick-start
-*   \#unilang-at-a-glance
-*   \#examples
-    *   \#classical-fol--family-relationships
-    *   \#modal--knowledge-and-belief
-    *   \#temporal--mutual-exclusion-simplified
-    *   \#probabilistic--weather-probability
-    *   \#fuzzy--graded-truth-threshold
-*   \#architecture
-*   \#extending-unilog
-    *   \#custom-solvers
-    *   \#custom-models
-*   \#roadmap
-*   \#contributing
-*   \#citing
-*   \#license
-*   \#repository
-*   \#acknowledgements
+*   why-unilog-toolkit
+*   features
+*   installation
+*   quick-start
+*   unilang-at-a-glance
+*   examples
+    *   classical-fol--family-relationships
+    *   modal--knowledge-and-belief
+    *   temporal--mutual-exclusion-simplified
+    *   probabilistic--weather-probability
+    *   fuzzy--graded-truth-threshold
+*   architecture
+*   extending-unilog
+    *   custom-solvers
+    *   custom-models
+*   roadmap
+*   contributing
+*   citing
+*   license
+*   repository
+*   acknowledgements
 
 ***
 
