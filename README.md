@@ -457,11 +457,3 @@ If you use UniLog Toolkit in academic work, please cite the technical report:
 *   Community feedback and contributors (add list once PRs land)
 
 ***
-
-### Want me to also:
-
-*   add a `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, and a minimal GitHub Actions workflow (pytest + ruff/black)?
-*   scaffold an `examples/` folder and `tests/` with the above cases?
-*   generate API docs via `pdoc`/`Sphinx` with autodoc from the AST & engine?
-
-If yes, tell me your preferred repo slug and style tools (ruff/black/mypy), and I’ll prepare the files.
